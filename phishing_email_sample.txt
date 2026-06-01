@@ -1,0 +1,18 @@
+From: security-alert@amazon-verification.net
+To: user@example.com
+Subject: Amazon Account Security Alert
+
+Dear Customer,
+
+We have detected suspicious login attempts on your Amazon account from an unknown device.
+
+To protect your account, we have temporarily restricted access. Please verify your identity by clicking the link below:
+
+https://amazon-account-secure-check.net/login
+
+Failure to verify your account within 12 hours may result in permanent account suspension.
+
+If you did not initiate this activity, please complete the verification process immediately.
+
+Thank you,
+Amazon Security Team
